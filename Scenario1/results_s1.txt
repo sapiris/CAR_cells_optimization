@@ -1,0 +1,4 @@
+selected genotypes:
+A*02:01~A*26:01~B*38:01~B*68:02~C*04:01~C*12:03~DQB1*02:01~DQB1*06:09~DRB1*11:01~DRB1*15:02
+Cost/Number of needed genotypes: 1.0
+Percentage from the population: 20.0

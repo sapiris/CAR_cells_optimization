@@ -1,0 +1,4 @@
+Number of _nodes_that_cover: 0
+Percentage from the population: 30.0
+Number of choose knockout: 3
+selected genotypes:

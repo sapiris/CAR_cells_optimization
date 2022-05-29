@@ -1,0 +1,7 @@
+{
+  "donors_input_file" : "../data/example.txt",
+  "recipients_input_file" : "../data/example.txt",
+  "knockout_cost": 10,
+  "percentage_from_the_population": 30,
+  "output_file": "results_greedy_s3.txt"
+}

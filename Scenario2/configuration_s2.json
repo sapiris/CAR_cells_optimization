@@ -1,0 +1,8 @@
+{
+  "donors_input_file" : "../data/example.txt",
+  "recipients_input_file" : "../data/example.txt",
+  "percentage_from_the_population": 20,
+  "prior_for_4_match": 1,
+  "mismatch_a_b": 1,
+  "output_file": "results_s2.txt"
+}
